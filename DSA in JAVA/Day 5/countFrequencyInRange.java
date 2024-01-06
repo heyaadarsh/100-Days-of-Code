@@ -1,6 +1,6 @@
 // Problem link: https://www.codingninjas.com/studio/problems/count-frequency-in-a-range_8365446
 
-// Solution: 
+// Solution:
 import java.util.*;
 public class countFrequencyInRange { // Change class name to 'Solution' on coding ninjas studio
     public static int[] countFrequency(int n, int x, int []nums){

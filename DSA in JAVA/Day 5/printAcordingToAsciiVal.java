@@ -1,4 +1,4 @@
-// Write a program, which takes input as a string, it check the ascii value of the character and if it is even then it replaces with its next ascii value and previous in case of odd.
+// Write a program, which takes input as a string, it check the ascii value of the character and if it is even then it replaces with its next ascii value and previous in case of odd. (Day 5)
 
 // Solution:
 import java.util.*;
